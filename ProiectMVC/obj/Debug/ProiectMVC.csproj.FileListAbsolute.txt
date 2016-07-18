@@ -1,0 +1,239 @@
+C:\Users\user\Desktop\MVC\ProiectMVC\ProiectMVC\bin\ApplicationInsights.config
+C:\Users\user\Desktop\MVC\ProiectMVC\ProiectMVC\bin\roslyn\csc.exe
+C:\Users\user\Desktop\MVC\ProiectMVC\ProiectMVC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\user\Desktop\MVC\ProiectMVC\ProiectMVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\user\Desktop\MVC\ProiectMVC\ProiectMVC\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\user\Desktop\MVC\ProiectMVC\ProiectMVC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\user\Desktop\MVC\ProiectMVC\ProiectMVC\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\user\Desktop\MVC\ProiectMVC\ProiectMVC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\user\Desktop\MVC\ProiectMVC\ProiectMVC\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\user\Desktop\MVC\ProiectMVC\ProiectMVC\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\user\Desktop\MVC\ProiectMVC\ProiectMVC\bin\roslyn\vbc.exe
+C:\Users\user\Desktop\MVC\ProiectMVC\ProiectMVC\bin\roslyn\VBCSCompiler.exe
+C:\Users\user\Desktop\MVC\ProiectMVC\ProiectMVC\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\user\Desktop\MVC\ProiectMVC\ProiectMVC\bin\ProiectMVC.dll.config
+C:\Users\user\Desktop\MVC\ProiectMVC\ProiectMVC\bin\ProiectMVC.dll
+C:\Users\user\Desktop\MVC\ProiectMVC\ProiectMVC\bin\ProiectMVC.pdb
+C:\Users\user\Desktop\MVC\ProiectMVC\ProiectMVC\bin\Antlr3.Runtime.dll
+C:\Users\user\Desktop\MVC\ProiectMVC\ProiectMVC\bin\EntityFramework.dll
+C:\Users\user\Desktop\MVC\ProiectMVC\ProiectMVC\bin\EntityFramework.SqlServer.dll
+C:\Users\user\Desktop\MVC\ProiectMVC\ProiectMVC\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\user\Desktop\MVC\ProiectMVC\ProiectMVC\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\user\Desktop\MVC\ProiectMVC\ProiectMVC\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\user\Desktop\MVC\ProiectMVC\ProiectMVC\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\user\Desktop\MVC\ProiectMVC\ProiectMVC\bin\Microsoft.AI.Web.dll
+C:\Users\user\Desktop\MVC\ProiectMVC\ProiectMVC\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\user\Desktop\MVC\ProiectMVC\ProiectMVC\bin\Microsoft.ApplicationInsights.dll
+C:\Users\user\Desktop\MVC\ProiectMVC\ProiectMVC\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\user\Desktop\MVC\ProiectMVC\ProiectMVC\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\user\Desktop\MVC\ProiectMVC\ProiectMVC\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\user\Desktop\MVC\ProiectMVC\ProiectMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\user\Desktop\MVC\ProiectMVC\ProiectMVC\bin\Microsoft.Owin.dll
+C:\Users\user\Desktop\MVC\ProiectMVC\ProiectMVC\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\user\Desktop\MVC\ProiectMVC\ProiectMVC\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\user\Desktop\MVC\ProiectMVC\ProiectMVC\bin\Microsoft.Owin.Security.dll
+C:\Users\user\Desktop\MVC\ProiectMVC\ProiectMVC\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\user\Desktop\MVC\ProiectMVC\ProiectMVC\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\user\Desktop\MVC\ProiectMVC\ProiectMVC\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\user\Desktop\MVC\ProiectMVC\ProiectMVC\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\user\Desktop\MVC\ProiectMVC\ProiectMVC\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\user\Desktop\MVC\ProiectMVC\ProiectMVC\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\user\Desktop\MVC\ProiectMVC\ProiectMVC\bin\Newtonsoft.Json.dll
+C:\Users\user\Desktop\MVC\ProiectMVC\ProiectMVC\bin\Owin.dll
+C:\Users\user\Desktop\MVC\ProiectMVC\ProiectMVC\bin\System.Web.Helpers.dll
+C:\Users\user\Desktop\MVC\ProiectMVC\ProiectMVC\bin\System.Web.Mvc.dll
+C:\Users\user\Desktop\MVC\ProiectMVC\ProiectMVC\bin\System.Web.Optimization.dll
+C:\Users\user\Desktop\MVC\ProiectMVC\ProiectMVC\bin\System.Web.Razor.dll
+C:\Users\user\Desktop\MVC\ProiectMVC\ProiectMVC\bin\System.Web.WebPages.Deployment.dll
+C:\Users\user\Desktop\MVC\ProiectMVC\ProiectMVC\bin\System.Web.WebPages.dll
+C:\Users\user\Desktop\MVC\ProiectMVC\ProiectMVC\bin\System.Web.WebPages.Razor.dll
+C:\Users\user\Desktop\MVC\ProiectMVC\ProiectMVC\bin\WebGrease.dll
+C:\Users\user\Desktop\MVC\ProiectMVC\ProiectMVC\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\user\Desktop\MVC\ProiectMVC\ProiectMVC\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\user\Desktop\MVC\ProiectMVC\ProiectMVC\bin\Microsoft.AI.Web.xml
+C:\Users\user\Desktop\MVC\ProiectMVC\ProiectMVC\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\user\Desktop\MVC\ProiectMVC\ProiectMVC\bin\Microsoft.ApplicationInsights.xml
+C:\Users\user\Desktop\MVC\ProiectMVC\ProiectMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\user\Desktop\MVC\ProiectMVC\ProiectMVC\bin\System.Web.Helpers.xml
+C:\Users\user\Desktop\MVC\ProiectMVC\ProiectMVC\bin\System.Web.Mvc.xml
+C:\Users\user\Desktop\MVC\ProiectMVC\ProiectMVC\bin\System.Web.Optimization.xml
+C:\Users\user\Desktop\MVC\ProiectMVC\ProiectMVC\bin\System.Web.Razor.xml
+C:\Users\user\Desktop\MVC\ProiectMVC\ProiectMVC\bin\System.Web.WebPages.xml
+C:\Users\user\Desktop\MVC\ProiectMVC\ProiectMVC\bin\System.Web.WebPages.Deployment.xml
+C:\Users\user\Desktop\MVC\ProiectMVC\ProiectMVC\bin\System.Web.WebPages.Razor.xml
+C:\Users\user\Desktop\MVC\ProiectMVC\ProiectMVC\bin\Antlr3.Runtime.pdb
+C:\Users\user\Desktop\MVC\ProiectMVC\ProiectMVC\bin\Newtonsoft.Json.xml
+C:\Users\user\Desktop\MVC\ProiectMVC\ProiectMVC\bin\EntityFramework.xml
+C:\Users\user\Desktop\MVC\ProiectMVC\ProiectMVC\bin\EntityFramework.SqlServer.xml
+C:\Users\user\Desktop\MVC\ProiectMVC\ProiectMVC\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\user\Desktop\MVC\ProiectMVC\ProiectMVC\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\user\Desktop\MVC\ProiectMVC\ProiectMVC\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\user\Desktop\MVC\ProiectMVC\ProiectMVC\bin\Microsoft.Owin.xml
+C:\Users\user\Desktop\MVC\ProiectMVC\ProiectMVC\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\user\Desktop\MVC\ProiectMVC\ProiectMVC\bin\Microsoft.Owin.Security.xml
+C:\Users\user\Desktop\MVC\ProiectMVC\ProiectMVC\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\user\Desktop\MVC\ProiectMVC\ProiectMVC\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\user\Desktop\MVC\ProiectMVC\ProiectMVC\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\user\Desktop\MVC\ProiectMVC\ProiectMVC\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\user\Desktop\MVC\ProiectMVC\ProiectMVC\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\user\Desktop\MVC\ProiectMVC\ProiectMVC\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\user\Desktop\MVC\ProiectMVC\ProiectMVC\obj\Debug\ProiectMVC.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\MVC\ProiectMVC\ProiectMVC\obj\Debug\ProiectMVC.dll
+C:\Users\user\Desktop\MVC\ProiectMVC\ProiectMVC\obj\Debug\ProiectMVC.pdb
+C:\Users\Claudiu\Desktop\Teamnet Projects\WEB + unit testing\ProiectMVC\ProiectMVC\ProiectMVC\obj\Debug\ProiectMVC.csprojResolveAssemblyReference.cache
+C:\Users\Claudiu\Desktop\Teamnet Projects\WEB + unit testing\ProiectMVC\ProiectMVC\ProiectMVC\obj\Debug\ProiectMVC.dll
+C:\Users\Claudiu\Desktop\Teamnet Projects\WEB + unit testing\ProiectMVC\ProiectMVC\ProiectMVC\obj\Debug\ProiectMVC.pdb
+C:\Users\Claudiu\Desktop\Teamnet Projects\WEB + unit testing\ProiectMVC\ProiectMVC\ProiectMVC\bin\ApplicationInsights.config
+C:\Users\Claudiu\Desktop\Teamnet Projects\WEB + unit testing\ProiectMVC\ProiectMVC\ProiectMVC\bin\roslyn\csc.exe
+C:\Users\Claudiu\Desktop\Teamnet Projects\WEB + unit testing\ProiectMVC\ProiectMVC\ProiectMVC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Claudiu\Desktop\Teamnet Projects\WEB + unit testing\ProiectMVC\ProiectMVC\ProiectMVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Claudiu\Desktop\Teamnet Projects\WEB + unit testing\ProiectMVC\ProiectMVC\ProiectMVC\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Claudiu\Desktop\Teamnet Projects\WEB + unit testing\ProiectMVC\ProiectMVC\ProiectMVC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Claudiu\Desktop\Teamnet Projects\WEB + unit testing\ProiectMVC\ProiectMVC\ProiectMVC\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Claudiu\Desktop\Teamnet Projects\WEB + unit testing\ProiectMVC\ProiectMVC\ProiectMVC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Claudiu\Desktop\Teamnet Projects\WEB + unit testing\ProiectMVC\ProiectMVC\ProiectMVC\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Claudiu\Desktop\Teamnet Projects\WEB + unit testing\ProiectMVC\ProiectMVC\ProiectMVC\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Claudiu\Desktop\Teamnet Projects\WEB + unit testing\ProiectMVC\ProiectMVC\ProiectMVC\bin\roslyn\vbc.exe
+C:\Users\Claudiu\Desktop\Teamnet Projects\WEB + unit testing\ProiectMVC\ProiectMVC\ProiectMVC\bin\roslyn\VBCSCompiler.exe
+C:\Users\Claudiu\Desktop\Teamnet Projects\WEB + unit testing\ProiectMVC\ProiectMVC\ProiectMVC\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Claudiu\Desktop\Teamnet Projects\WEB + unit testing\ProiectMVC\ProiectMVC\ProiectMVC\bin\ProiectMVC.dll.config
+C:\Users\Claudiu\Desktop\Teamnet Projects\WEB + unit testing\ProiectMVC\ProiectMVC\ProiectMVC\bin\ProiectMVC.dll
+C:\Users\Claudiu\Desktop\Teamnet Projects\WEB + unit testing\ProiectMVC\ProiectMVC\ProiectMVC\bin\ProiectMVC.pdb
+C:\Users\Claudiu\Desktop\Teamnet Projects\WEB + unit testing\ProiectMVC\ProiectMVC\ProiectMVC\bin\Antlr3.Runtime.dll
+C:\Users\Claudiu\Desktop\Teamnet Projects\WEB + unit testing\ProiectMVC\ProiectMVC\ProiectMVC\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Claudiu\Desktop\Teamnet Projects\WEB + unit testing\ProiectMVC\ProiectMVC\ProiectMVC\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Claudiu\Desktop\Teamnet Projects\WEB + unit testing\ProiectMVC\ProiectMVC\ProiectMVC\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Claudiu\Desktop\Teamnet Projects\WEB + unit testing\ProiectMVC\ProiectMVC\ProiectMVC\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Claudiu\Desktop\Teamnet Projects\WEB + unit testing\ProiectMVC\ProiectMVC\ProiectMVC\bin\Microsoft.AI.Web.dll
+C:\Users\Claudiu\Desktop\Teamnet Projects\WEB + unit testing\ProiectMVC\ProiectMVC\ProiectMVC\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Claudiu\Desktop\Teamnet Projects\WEB + unit testing\ProiectMVC\ProiectMVC\ProiectMVC\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Claudiu\Desktop\Teamnet Projects\WEB + unit testing\ProiectMVC\ProiectMVC\ProiectMVC\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Claudiu\Desktop\Teamnet Projects\WEB + unit testing\ProiectMVC\ProiectMVC\ProiectMVC\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Claudiu\Desktop\Teamnet Projects\WEB + unit testing\ProiectMVC\ProiectMVC\ProiectMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Claudiu\Desktop\Teamnet Projects\WEB + unit testing\ProiectMVC\ProiectMVC\ProiectMVC\bin\Microsoft.Owin.dll
+C:\Users\Claudiu\Desktop\Teamnet Projects\WEB + unit testing\ProiectMVC\ProiectMVC\ProiectMVC\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Claudiu\Desktop\Teamnet Projects\WEB + unit testing\ProiectMVC\ProiectMVC\ProiectMVC\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Claudiu\Desktop\Teamnet Projects\WEB + unit testing\ProiectMVC\ProiectMVC\ProiectMVC\bin\Microsoft.Owin.Security.dll
+C:\Users\Claudiu\Desktop\Teamnet Projects\WEB + unit testing\ProiectMVC\ProiectMVC\ProiectMVC\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Claudiu\Desktop\Teamnet Projects\WEB + unit testing\ProiectMVC\ProiectMVC\ProiectMVC\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Claudiu\Desktop\Teamnet Projects\WEB + unit testing\ProiectMVC\ProiectMVC\ProiectMVC\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Claudiu\Desktop\Teamnet Projects\WEB + unit testing\ProiectMVC\ProiectMVC\ProiectMVC\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Claudiu\Desktop\Teamnet Projects\WEB + unit testing\ProiectMVC\ProiectMVC\ProiectMVC\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Claudiu\Desktop\Teamnet Projects\WEB + unit testing\ProiectMVC\ProiectMVC\ProiectMVC\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Claudiu\Desktop\Teamnet Projects\WEB + unit testing\ProiectMVC\ProiectMVC\ProiectMVC\bin\Newtonsoft.Json.dll
+C:\Users\Claudiu\Desktop\Teamnet Projects\WEB + unit testing\ProiectMVC\ProiectMVC\ProiectMVC\bin\Owin.dll
+C:\Users\Claudiu\Desktop\Teamnet Projects\WEB + unit testing\ProiectMVC\ProiectMVC\ProiectMVC\bin\System.Web.Helpers.dll
+C:\Users\Claudiu\Desktop\Teamnet Projects\WEB + unit testing\ProiectMVC\ProiectMVC\ProiectMVC\bin\System.Web.Mvc.dll
+C:\Users\Claudiu\Desktop\Teamnet Projects\WEB + unit testing\ProiectMVC\ProiectMVC\ProiectMVC\bin\System.Web.Optimization.dll
+C:\Users\Claudiu\Desktop\Teamnet Projects\WEB + unit testing\ProiectMVC\ProiectMVC\ProiectMVC\bin\System.Web.Razor.dll
+C:\Users\Claudiu\Desktop\Teamnet Projects\WEB + unit testing\ProiectMVC\ProiectMVC\ProiectMVC\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Claudiu\Desktop\Teamnet Projects\WEB + unit testing\ProiectMVC\ProiectMVC\ProiectMVC\bin\System.Web.WebPages.dll
+C:\Users\Claudiu\Desktop\Teamnet Projects\WEB + unit testing\ProiectMVC\ProiectMVC\ProiectMVC\bin\System.Web.WebPages.Razor.dll
+C:\Users\Claudiu\Desktop\Teamnet Projects\WEB + unit testing\ProiectMVC\ProiectMVC\ProiectMVC\bin\WebGrease.dll
+C:\Users\Claudiu\Desktop\Teamnet Projects\WEB + unit testing\ProiectMVC\ProiectMVC\ProiectMVC\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Claudiu\Desktop\Teamnet Projects\WEB + unit testing\ProiectMVC\ProiectMVC\ProiectMVC\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Claudiu\Desktop\Teamnet Projects\WEB + unit testing\ProiectMVC\ProiectMVC\ProiectMVC\bin\Microsoft.AI.Web.xml
+C:\Users\Claudiu\Desktop\Teamnet Projects\WEB + unit testing\ProiectMVC\ProiectMVC\ProiectMVC\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Claudiu\Desktop\Teamnet Projects\WEB + unit testing\ProiectMVC\ProiectMVC\ProiectMVC\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Claudiu\Desktop\Teamnet Projects\WEB + unit testing\ProiectMVC\ProiectMVC\ProiectMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Claudiu\Desktop\Teamnet Projects\WEB + unit testing\ProiectMVC\ProiectMVC\ProiectMVC\bin\System.Web.Helpers.xml
+C:\Users\Claudiu\Desktop\Teamnet Projects\WEB + unit testing\ProiectMVC\ProiectMVC\ProiectMVC\bin\System.Web.Mvc.xml
+C:\Users\Claudiu\Desktop\Teamnet Projects\WEB + unit testing\ProiectMVC\ProiectMVC\ProiectMVC\bin\System.Web.Optimization.xml
+C:\Users\Claudiu\Desktop\Teamnet Projects\WEB + unit testing\ProiectMVC\ProiectMVC\ProiectMVC\bin\System.Web.Razor.xml
+C:\Users\Claudiu\Desktop\Teamnet Projects\WEB + unit testing\ProiectMVC\ProiectMVC\ProiectMVC\bin\System.Web.WebPages.xml
+C:\Users\Claudiu\Desktop\Teamnet Projects\WEB + unit testing\ProiectMVC\ProiectMVC\ProiectMVC\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Claudiu\Desktop\Teamnet Projects\WEB + unit testing\ProiectMVC\ProiectMVC\ProiectMVC\bin\System.Web.WebPages.Razor.xml
+C:\Users\Claudiu\Desktop\Teamnet Projects\WEB + unit testing\ProiectMVC\ProiectMVC\ProiectMVC\bin\Antlr3.Runtime.pdb
+C:\Users\Claudiu\Desktop\Teamnet Projects\WEB + unit testing\ProiectMVC\ProiectMVC\ProiectMVC\bin\Newtonsoft.Json.xml
+C:\Users\Claudiu\Desktop\Teamnet Projects\WEB + unit testing\ProiectMVC\ProiectMVC\ProiectMVC\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Claudiu\Desktop\Teamnet Projects\WEB + unit testing\ProiectMVC\ProiectMVC\ProiectMVC\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Claudiu\Desktop\Teamnet Projects\WEB + unit testing\ProiectMVC\ProiectMVC\ProiectMVC\bin\Microsoft.Owin.xml
+C:\Users\Claudiu\Desktop\Teamnet Projects\WEB + unit testing\ProiectMVC\ProiectMVC\ProiectMVC\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Claudiu\Desktop\Teamnet Projects\WEB + unit testing\ProiectMVC\ProiectMVC\ProiectMVC\bin\Microsoft.Owin.Security.xml
+C:\Users\Claudiu\Desktop\Teamnet Projects\WEB + unit testing\ProiectMVC\ProiectMVC\ProiectMVC\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Claudiu\Desktop\Teamnet Projects\WEB + unit testing\ProiectMVC\ProiectMVC\ProiectMVC\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Claudiu\Desktop\Teamnet Projects\WEB + unit testing\ProiectMVC\ProiectMVC\ProiectMVC\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Claudiu\Desktop\Teamnet Projects\WEB + unit testing\ProiectMVC\ProiectMVC\ProiectMVC\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Claudiu\Desktop\Teamnet Projects\WEB + unit testing\ProiectMVC\ProiectMVC\ProiectMVC\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Claudiu\Desktop\Teamnet Projects\WEB + unit testing\ProiectMVC\ProiectMVC\ProiectMVC\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Claudiu\Desktop\Teamnet Projects\WEB + unit testing\ProiectMVC\ProiectMVC\ProiectMVC\bin\System.Net.Http.Extensions.dll
+C:\Users\Claudiu\Desktop\Teamnet Projects\WEB + unit testing\ProiectMVC\ProiectMVC\ProiectMVC\bin\System.Net.Http.Formatting.dll
+C:\Users\Claudiu\Desktop\Teamnet Projects\WEB + unit testing\ProiectMVC\ProiectMVC\ProiectMVC\bin\System.Net.Http.Primitives.dll
+C:\Users\Claudiu\Desktop\Teamnet Projects\WEB + unit testing\ProiectMVC\ProiectMVC\ProiectMVC\bin\System.Net.Http.Formatting.xml
+C:\Users\Claudiu\Desktop\WEB\WEB\ProiectMVC\obj\Debug\ProiectMVC.dll
+C:\Users\Claudiu\Desktop\WEB\WEB\ProiectMVC\obj\Debug\ProiectMVC.pdb
+C:\Users\Claudiu\Desktop\WEB\WEB\ProiectMVC\bin\ApplicationInsights.config
+C:\Users\Claudiu\Desktop\WEB\WEB\ProiectMVC\bin\roslyn\csc.exe
+C:\Users\Claudiu\Desktop\WEB\WEB\ProiectMVC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Claudiu\Desktop\WEB\WEB\ProiectMVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Claudiu\Desktop\WEB\WEB\ProiectMVC\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Claudiu\Desktop\WEB\WEB\ProiectMVC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Claudiu\Desktop\WEB\WEB\ProiectMVC\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Claudiu\Desktop\WEB\WEB\ProiectMVC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Claudiu\Desktop\WEB\WEB\ProiectMVC\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Claudiu\Desktop\WEB\WEB\ProiectMVC\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Claudiu\Desktop\WEB\WEB\ProiectMVC\bin\roslyn\vbc.exe
+C:\Users\Claudiu\Desktop\WEB\WEB\ProiectMVC\bin\roslyn\VBCSCompiler.exe
+C:\Users\Claudiu\Desktop\WEB\WEB\ProiectMVC\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Claudiu\Desktop\WEB\WEB\ProiectMVC\bin\ProiectMVC.dll.config
+C:\Users\Claudiu\Desktop\WEB\WEB\ProiectMVC\bin\ProiectMVC.dll
+C:\Users\Claudiu\Desktop\WEB\WEB\ProiectMVC\bin\ProiectMVC.pdb
+C:\Users\Claudiu\Desktop\WEB\WEB\ProiectMVC\bin\Antlr3.Runtime.dll
+C:\Users\Claudiu\Desktop\WEB\WEB\ProiectMVC\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Claudiu\Desktop\WEB\WEB\ProiectMVC\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Claudiu\Desktop\WEB\WEB\ProiectMVC\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Claudiu\Desktop\WEB\WEB\ProiectMVC\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Claudiu\Desktop\WEB\WEB\ProiectMVC\bin\Microsoft.AI.Web.dll
+C:\Users\Claudiu\Desktop\WEB\WEB\ProiectMVC\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Claudiu\Desktop\WEB\WEB\ProiectMVC\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Claudiu\Desktop\WEB\WEB\ProiectMVC\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Claudiu\Desktop\WEB\WEB\ProiectMVC\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Claudiu\Desktop\WEB\WEB\ProiectMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Claudiu\Desktop\WEB\WEB\ProiectMVC\bin\Microsoft.Owin.dll
+C:\Users\Claudiu\Desktop\WEB\WEB\ProiectMVC\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Claudiu\Desktop\WEB\WEB\ProiectMVC\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Claudiu\Desktop\WEB\WEB\ProiectMVC\bin\Microsoft.Owin.Security.dll
+C:\Users\Claudiu\Desktop\WEB\WEB\ProiectMVC\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Claudiu\Desktop\WEB\WEB\ProiectMVC\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Claudiu\Desktop\WEB\WEB\ProiectMVC\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Claudiu\Desktop\WEB\WEB\ProiectMVC\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Claudiu\Desktop\WEB\WEB\ProiectMVC\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Claudiu\Desktop\WEB\WEB\ProiectMVC\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Claudiu\Desktop\WEB\WEB\ProiectMVC\bin\Newtonsoft.Json.dll
+C:\Users\Claudiu\Desktop\WEB\WEB\ProiectMVC\bin\Owin.dll
+C:\Users\Claudiu\Desktop\WEB\WEB\ProiectMVC\bin\System.Web.Helpers.dll
+C:\Users\Claudiu\Desktop\WEB\WEB\ProiectMVC\bin\System.Web.Mvc.dll
+C:\Users\Claudiu\Desktop\WEB\WEB\ProiectMVC\bin\System.Web.Optimization.dll
+C:\Users\Claudiu\Desktop\WEB\WEB\ProiectMVC\bin\System.Web.Razor.dll
+C:\Users\Claudiu\Desktop\WEB\WEB\ProiectMVC\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Claudiu\Desktop\WEB\WEB\ProiectMVC\bin\System.Web.WebPages.dll
+C:\Users\Claudiu\Desktop\WEB\WEB\ProiectMVC\bin\System.Web.WebPages.Razor.dll
+C:\Users\Claudiu\Desktop\WEB\WEB\ProiectMVC\bin\WebGrease.dll
+C:\Users\Claudiu\Desktop\WEB\WEB\ProiectMVC\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Claudiu\Desktop\WEB\WEB\ProiectMVC\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Claudiu\Desktop\WEB\WEB\ProiectMVC\bin\Microsoft.AI.Web.xml
+C:\Users\Claudiu\Desktop\WEB\WEB\ProiectMVC\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Claudiu\Desktop\WEB\WEB\ProiectMVC\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Claudiu\Desktop\WEB\WEB\ProiectMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Claudiu\Desktop\WEB\WEB\ProiectMVC\bin\System.Net.Http.Formatting.xml
+C:\Users\Claudiu\Desktop\WEB\WEB\ProiectMVC\bin\System.Web.Helpers.xml
+C:\Users\Claudiu\Desktop\WEB\WEB\ProiectMVC\bin\System.Web.Mvc.xml
+C:\Users\Claudiu\Desktop\WEB\WEB\ProiectMVC\bin\System.Web.Optimization.xml
+C:\Users\Claudiu\Desktop\WEB\WEB\ProiectMVC\bin\System.Web.Razor.xml
+C:\Users\Claudiu\Desktop\WEB\WEB\ProiectMVC\bin\System.Web.WebPages.xml
+C:\Users\Claudiu\Desktop\WEB\WEB\ProiectMVC\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Claudiu\Desktop\WEB\WEB\ProiectMVC\bin\System.Web.WebPages.Razor.xml
+C:\Users\Claudiu\Desktop\WEB\WEB\ProiectMVC\bin\Antlr3.Runtime.pdb
+C:\Users\Claudiu\Desktop\WEB\WEB\ProiectMVC\bin\Newtonsoft.Json.xml
+C:\Users\Claudiu\Desktop\WEB\WEB\ProiectMVC\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Claudiu\Desktop\WEB\WEB\ProiectMVC\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Claudiu\Desktop\WEB\WEB\ProiectMVC\bin\Microsoft.Owin.xml
+C:\Users\Claudiu\Desktop\WEB\WEB\ProiectMVC\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Claudiu\Desktop\WEB\WEB\ProiectMVC\bin\Microsoft.Owin.Security.xml
+C:\Users\Claudiu\Desktop\WEB\WEB\ProiectMVC\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Claudiu\Desktop\WEB\WEB\ProiectMVC\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Claudiu\Desktop\WEB\WEB\ProiectMVC\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Claudiu\Desktop\WEB\WEB\ProiectMVC\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Claudiu\Desktop\WEB\WEB\ProiectMVC\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Claudiu\Desktop\WEB\WEB\ProiectMVC\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Claudiu\Desktop\WEB\WEB\ProiectMVC\obj\Debug\ProiectMVC.csprojResolveAssemblyReference.cache
